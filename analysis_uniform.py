@@ -11,6 +11,7 @@ import pandas as pd
 from matplotlib.font_manager import FontProperties# 步骤1
 from brokenaxes import brokenaxes
 import os
+import os
 
 import matplotlib
 # matplotlib.use("TkAgg")
